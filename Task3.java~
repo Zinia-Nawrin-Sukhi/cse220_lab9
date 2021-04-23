@@ -1,0 +1,13 @@
+
+
+public class Task3{
+  public static void main(String[]args){
+    int a[]={1,2,3,4,5};
+    Array r= new Array();
+
+    System.out.print( r.PrintAll());
+    
+  }
+  
+  
+}

@@ -1,0 +1,14 @@
+import java.util.Scanner;
+
+public class Task2{
+  public static void main(String[]args){
+    Scanner sc= new Scanner(System.in);
+    int i= sc.nextInt();
+   Fibonacci f = new Fibonacci();
+
+    System.out.print( f.Fib(i));
+    
+  }
+  
+  
+}

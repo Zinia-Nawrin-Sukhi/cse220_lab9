@@ -1,0 +1,15 @@
+public class Power{
+  
+    public int Multiple(int x,int y){
+      
+
+        if(n>0){
+
+    return (( Multiple(m, n-1))+" "+(m*m));
+      
+    }
+         return 1; 
+    } 
+    
+  }
+  

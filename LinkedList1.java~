@@ -1,0 +1,15 @@
+public class LinkedList1{
+  public Node1 head;
+  
+  public LinkedList1(Object [] a){
+  
+    Node1 n =new Node1(a[0],null);
+//   head=n;
+    public LinkedList1(Node1 h){
+    
+   head=h;
+    
+  }
+    
+  }
+}

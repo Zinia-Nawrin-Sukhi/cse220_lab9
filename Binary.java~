@@ -1,0 +1,16 @@
+public class Binary{
+  
+    public int BinaryConverter(int i){
+      if(i/2==0){
+       return 1; 
+      }
+     
+      return i/2;
+      
+      
+    }
+    
+    
+  }
+  
+  
